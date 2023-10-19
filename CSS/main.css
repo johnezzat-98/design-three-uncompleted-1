@@ -231,7 +231,7 @@ body {
 }
 
 .landing-section header .nav-other-links .background {
-    background-image: url("/Images/10173265_8487-1.png");
+    background-image: url("Images/10173265_8487-1.png");
     width: 455px;
     background-size: cover;
     background-position: center 0px;
